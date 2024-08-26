@@ -26,6 +26,7 @@
 		<module>AccountManagement</module>
 		<module>TransactionManagement</module>
 		<module>NotificationService</module>
+		<module>EurekaServer</module>
 	</modules>
 	<scm>
 		<connection/>
